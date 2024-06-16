@@ -1,4 +1,4 @@
-
+% Python Variables
 x = "Hello"
 print(x)
 
@@ -7,3 +7,5 @@ print(a,b,c)
 
 a, b, c = 1,3,6
 print(a,b,c)
+
+del b
